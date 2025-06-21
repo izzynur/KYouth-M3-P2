@@ -1,0 +1,21 @@
+body {
+    background-color: lightcyan;
+    text-align:justify
+}
+
+.para {
+    margin: 30px;
+}
+
+.navbar {
+    border: 2px solid rgb(48, 152, 19);
+}
+
+img {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+    margin: 30px 20px 20px 20px;
+}
+
+#desc {
+    text-align: center;
+}
